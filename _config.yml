@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : sdxy0506
+      short_name : yanblog
     #livefyre :
     #  site_id : 123
     #intensedebate :
