@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yan's World
-tagline: Supporting tagline
+tagline: 关注移动设备开发
 ---
 {% include JB/setup %}
     
